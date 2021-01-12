@@ -1,0 +1,2 @@
+E:\C Programing\ConsoleApplication2\Debug\ConsoleApplication2.exe
+E:\C Programing\ConsoleApplication2\Debug\ConsoleApplication2.pdb
